@@ -1,6 +1,6 @@
 # 💫 José Luiz
 
-**`Estagiário em Back-end`**
+**`Desenvolvedor Back-end`**
 
 👋 Olá! Bem-vindo ao meu mundo.
 

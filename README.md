@@ -14,7 +14,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
     <img 
         alt="LinkedIn" 
         title="Conecte-se comigo no LinkedIn" 
-        src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
     />
     </a> 
     <a href="https://github.com/blenked?tab=repositories&sort=stargazers">
@@ -43,7 +43,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
 <img 
     align="left" 
@@ -51,7 +51,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
     title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
@@ -59,7 +59,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -67,7 +67,7 @@ Este perfil é onde registro minha evolução, compartilho projetos e coloco em 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
@@ -84,4 +84,3 @@ blenked@localhost:~$
 ░█░░░█░█░█▀█░█░█░█░█░▀█░█░█░░░░░░░░▐▓█░░░░░░░░█▓▌░█▄▄▄█░░
 ░▀▀▀░▀▀▀░▀░▀░▀▀░░▀░▀░░▀░▀▀▀░░▀░▀░▀░▐▓█▄▄▄▄▄▄▄▄█▓▌░█████░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄██▄▄░░░░░█████░░ 
-
